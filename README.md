@@ -17,8 +17,11 @@ Functional requirements define the essential functionality of the system and how
 
 ## Design Pattern Implementation
  - Developing Repository Classes
+     - Build repository classes for Orders, Customers, and Products to handle data access operations.  
  - Migrating Data Access Operations
+     - Shift data access operations from respective controllers to repository classes.
  - Integrating Repository Classes
+     - Utilize the repository classes in controllers for efficient data access operations.
 
 # Non-Functional Requirements
 Non-functional requirements pertain to the system's quality attributes, ensuring that the implementation of functional requirements aligns with good software practices.
@@ -27,7 +30,7 @@ Non-functional requirements pertain to the system's quality attributes, ensuring
 Non-functional requirements pertain to the system's quality attributes, ensuring that the implementation of functional requirements aligns with good software practices.
 
 ## GitHub Security
- Ensure sensitive credentials are not stored on GitHub.
+    - Ensure sensitive credentials are not stored on GitHub.
 ## Web API Cloud Hosting
     - Establish an App Service (F1 tier - free service plan).
     - Deploy the App to Azure and enforce appropriate security measures.
