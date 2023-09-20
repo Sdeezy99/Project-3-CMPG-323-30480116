@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using Models;
 using Data;
-using EcoPower_Logistics;
+using EcoPower_Logistics.Repository;
 
 namespace Controllers
 {
