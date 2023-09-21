@@ -1,4 +1,6 @@
 # Project3 - Enhancing an Existing ASP.NET Core MVC Web Application
+![logo](https://github.com/Sdeezy99/Project-3-CMPG-323-30480116/assets/140965300/177467e2-5631-4692-b91e-af0fc2fae52c)
+
 
 ## Project Overview
 
@@ -45,3 +47,10 @@ Non-functional requirements pertain to the system's quality attributes, ensuring
     - Develop a reference list document containing resources utilized during the project.
 
 # Project References 
+
+- C# design patterns: Design pattern tutorial for beginners: C# programming tutorial: Simplilearn (2022) YouTube. Available at: https://youtu.be/OP1tBC6dBW0?si=b2QHy8YA14QF0Zl1 (Accessed: 21 September 2023).
+- Velayutham, M. (no date) Architectural patterns in .NET, C# Corner. Available at: https://www.c-sharpcorner.com/uploadfile/babu_2082/architectural-patterns-in-net/ (Accessed: 21 September 2023). 
+- https://youtu.be/OP1tBC6dBW0?si=b2QHy8YA14QF0Zl1
+- https://youtu.be/VYvgmMkGUfc?si=SCa0jHHwKHNyiZwo
+- https://youtu.be/_5iD4efyeE8?si=nDY9izZ7Irsdp1tZ
+
