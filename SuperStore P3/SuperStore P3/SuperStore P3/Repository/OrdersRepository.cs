@@ -13,6 +13,7 @@ namespace EcoPower_Logistics
         {
             return _context.Orders.OrderByDescending(service => service.OrderDate).FirstOrDefault();
         }
+
     }
 
 }

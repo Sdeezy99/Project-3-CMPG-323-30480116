@@ -11503,11 +11503,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\itstudent\\Desktop\\Project3\\SuperStore P3\\SuperStore P3\\SuperStore P3\\EcoPower_Logistics.csproj",
+      "projectUniqueName": "E:\\Project 3\\SuperStore P3\\SuperStore P3\\SuperStore P3\\EcoPower_Logistics.csproj",
       "projectName": "EcoPower_Logistics",
-      "projectPath": "C:\\Users\\itstudent\\Desktop\\Project3\\SuperStore P3\\SuperStore P3\\SuperStore P3\\EcoPower_Logistics.csproj",
+      "projectPath": "E:\\Project 3\\SuperStore P3\\SuperStore P3\\SuperStore P3\\EcoPower_Logistics.csproj",
       "packagesPath": "C:\\Users\\itstudent\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\itstudent\\Desktop\\Project3\\SuperStore P3\\SuperStore P3\\SuperStore P3\\obj\\",
+      "outputPath": "E:\\Project 3\\SuperStore P3\\SuperStore P3\\SuperStore P3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\itstudent\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -8,6 +8,7 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using Data;
 using Models;
+using EcoPower_Logistics.Repository;
 
 namespace Controllers
 {
@@ -15,10 +16,11 @@ namespace Controllers
     public class CustomersController : Controller
     {
         private readonly SuperStoreContext _context;
-
-        public CustomersController(SuperStoreContext context)
+        private readonly ICustomerRepository _customersRepository;
+        public CustomersController(SuperStoreContext context, ICustomerRepository customersRepository)
         {
             _context = context;
+            _customersRepository = customersRepository; 
         }
 
         // GET: Customers
