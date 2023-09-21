@@ -3,6 +3,11 @@
 ## Project Overview
 
 In this assignment, we're given the responsibility to improve an already established ASP.NET Core MVC Web Application. The emphasis lies on comprehending and enhancing the existing code rather than starting anew. Our primary focus is on adhering to architectural patterns, coding principles, and design patterns that align with the project's specifications and industry best practices in software development.
+# Training Completed
+
+   - ## Name of the Training
+    - Build ASP.NET MVC web applications
+    - Secure a .NET web app with the ASP.NET Core Identity framework
 
 # Functional Requirements
 Functional requirements define the essential functionality of the system and how these functions should be performed.
